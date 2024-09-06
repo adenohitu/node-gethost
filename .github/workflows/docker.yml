@@ -26,4 +26,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: adenohitu/hisui-judge-docker:latest
+          tags: adenohitu/node-gethost:latest
